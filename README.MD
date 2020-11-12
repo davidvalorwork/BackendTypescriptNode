@@ -3,7 +3,7 @@
 Este documento refleja como trabajar el backend de la aplicación.
 
 version 2.0
-Jogeiker L <jogeiker1999@gmail.com>
+David Valor <davidvalorwork@gmail.com>
 (c) JDV
 
 # Conexión a la instancia AWS
