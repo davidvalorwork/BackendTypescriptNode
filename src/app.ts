@@ -3,8 +3,8 @@ import { App } from './helpers/app';
 /**
  * App
  * 
- * @author Jogeiker L <jogeiker1999@gmail.com>
- * @copyright JDV
+ * @author David Valor <davidvalorwork@gmail.com>
+ * @copyright David Valor
  */
 
 // Ejecuta la aplicación
