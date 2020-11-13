@@ -5,7 +5,7 @@ import * as express from 'express';
  * 
  * Controlador Base, todos los controladores heredan de él
  *  
- * @author Jogeiker L <jogeiker1999@gmail.com>
+ * @author David Valor <davidvalorwork@gmail.com>
  * @copyright JDV
  */
  

@@ -3,7 +3,7 @@
  * 
  * Envía un mensaje de correo
  * 
- * @author Jogeiker L <jogeiker1999@gmail.com>
+ * @author David Valor <davidvalorwork@gmail.com>
  * @copyright JDV
  * 
  * Usa nodemailer para el envío de correo
@@ -97,7 +97,7 @@ export class Mail
      * 
      * Mail.send(
      *       {
-     *           to          : 'jogeiker1999@gmail.com', // Detinatario/s del mensaje
+     *           to          : 'davidvalorwork@gmail.com', // Detinatario/s del mensaje
      *           subject     : 'test',            // El asunto
      *           message     : 'test'             // El mensaje
      *       }
@@ -111,7 +111,7 @@ export class Mail
      * 
      * Mail.send(
      *       {
-     *           to          : 'jogeiker1999@gmail.com', // Detinatario/s del mensaje
+     *           to          : 'davidvalorwork1999@gmail.com', // Detinatario/s del mensaje
      *           subject     : 'test',            // El asunto
      *           template    : 'welcome'          // La plantilla /views/mail/welcome.html
      *           context     :

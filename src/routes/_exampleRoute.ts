@@ -3,7 +3,7 @@ import { ExampleController } from '../controllers/_exampleController';
 /**
  * exampleRoute
  * 
- * @author Jogeiker L <jogeiker1999@gmail.com>
+ * @author David Valor <davidvalorwork@gmail.com>
  * @copyright JDV
  */
 

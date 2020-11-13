@@ -3,7 +3,7 @@ import { TestController } from "../controllers/testController";
 /**
  * testRoute
  * 
- * @author Jogeiker L <jogeiker1999@gmail.com>
+ * @author David Valor <davidvalorwork@gmail.com>
  * @copyright JDV
  */
 

@@ -6,7 +6,7 @@ import { Config } from '../helpers/config';
  * 
  * Controlador para errores HTTP
  *  
- * @author Jogeiker L <jogeiker1999@gmail.com>
+ * @author David Valor <davidvalorwork@gmail.com>
  * @copyright JDV
  */
  

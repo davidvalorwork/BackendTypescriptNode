@@ -5,7 +5,7 @@ import * as express from 'express';
  * 
  * Maneja las rutas de la aplicación
  * 
- * @author Jogeiker L <jogeiker1999@gmail.com>
+ * @author David Valor <davidvalorwork@gmail.com>
  * @copyright JDV
  */
 

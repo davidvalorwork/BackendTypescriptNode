@@ -2,7 +2,7 @@
  * mongoose
  * Conexión a la base de datos de Mongo
  * 
- * @author Jogeiker L <jogeiker1999@gmail.com>
+ * @author David Valor <davidvalorwork@gmail.com>
  * @copyright JDV
  */
 

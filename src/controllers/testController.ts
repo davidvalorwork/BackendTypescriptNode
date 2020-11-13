@@ -10,7 +10,7 @@ import Test from '../models/test';
  * 
  * Controlador para testing
  *  
- * @author Jogeiker L <jogeiker1999@gmail.com>
+ * @author David Valor <davidvalorwork@gmail.com>
  * @copyright JDV
  */
  

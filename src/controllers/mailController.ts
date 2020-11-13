@@ -6,7 +6,7 @@ import { Config } from '../helpers/config';
  * 
  * Envía mensajes de correo
  *  
- * @author Jogeiker L <jogeiker1999@gmail.com>
+ * @author David Valor <davidvalorwork@gmail.com>
  * @copyright JDV
  */
  

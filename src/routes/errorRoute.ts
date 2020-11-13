@@ -3,7 +3,7 @@ import { HttpErrorController } from '../controllers/httpErrorController';
 /**
  * errorRoute
  * 
- * @author Jogeiker L <jogeiker1999@gmail.com>
+ * @author David Valor <davidvalorwork@gmail.com>
  * @copyright JDV
  */
 

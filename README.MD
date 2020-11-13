@@ -207,7 +207,7 @@ y reemplazar example por user:
     /**
     * userRoute
     * 
-    * @author Jogeiker L <jogeiker1999@gmail.com>
+    * @author David Valor <davidvalorwork@gmail.com>
     * @copyright JDV
     */
 
@@ -254,7 +254,7 @@ y susituimos example por user:
     * 
     * Explica el objeto de este controlador
     *  
-    * @author Jogeiker L <jogeiker1999@gmail.com>
+    * @author David Valor <davidvalorwork@gmail.com>
     * @copyright JDV
     */
     
@@ -381,7 +381,7 @@ Envío de un mensaje de correo sencillo:
 
     Mail.send(
         {
-            to          : 'jogeiker1999@gmail.com', // Detinatario/s del mensaje
+            to          : 'davidvalorwork@gmail.com', // Detinatario/s del mensaje
             subject     : 'test',            // El asunto
             message     : 'test'             // El mensaje
         }
@@ -395,7 +395,7 @@ Envío de un mensaje de correo utilizando una plantilla ubicada en la carpeta /v
         
     Mail.send(
         {
-            to          : 'jogeiker1999@gmail.com', // Detinatario/s del mensaje
+            to          : 'davidvalorwork@gmail.com', // Detinatario/s del mensaje
             subject     : 'test',            // El asunto
             template    : 'welcome'          // La plantilla /views/mail/welcome.html
             context     :

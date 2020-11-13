@@ -8,7 +8,7 @@ import { Authentication } from './middleware/authentication';
 /**
  * UserRoute
  * 
- * @author Jogeiker L <jogeiker1999@gmail.com>
+ * @author David Valor <davidvalorwork@gmail.com>
  * @copyright JDV
  */
 

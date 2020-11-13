@@ -4,7 +4,7 @@
  * Mantiene la configuración de la aplicación
  * Es un singleton
  * 
- * @author Jogeiker L <jogeiker1999@gmail.com>
+ * @author David Valor <davidvalorwork@gmail.com>
  * @copyright JDV
  */
 

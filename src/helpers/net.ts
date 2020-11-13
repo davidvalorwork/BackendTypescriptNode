@@ -4,7 +4,7 @@
  * Fachada con funciones de 
  * Obtención de direcciones ip
  * 
- * @author Jogeiker L <jogeiker1999@gmail.com>
+ * @author David Valor <davidvalorwork@gmail.com>
  * @copyright JDV
  *
  * @link https://www.npmjs.com/package/bcrypt

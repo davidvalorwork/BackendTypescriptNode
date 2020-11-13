@@ -7,7 +7,7 @@ import { Request, Response } from 'express';
  * 
  * Explica el objeto de este controlador
  *  
- * @author Jogeiker L <jogeiker1999@gmail.com>
+ * @author David Valor <davidvalorwork@gmail.com>
  * @copyright JDV
  */
  

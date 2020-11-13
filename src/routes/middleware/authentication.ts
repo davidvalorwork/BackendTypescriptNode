@@ -6,7 +6,7 @@ import { Config } from '../../helpers/config';
  * 
  * Middlware de autenticación
  * 
- * @author Jogeiker L <jogeiker1999@gmail.com>
+ * @author David Valor <davidvalorwork@gmail.com>
  * @copyright JDV
  */
 export class Authentication

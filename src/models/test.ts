@@ -3,7 +3,7 @@ import { createSchema, Type, typedModel } from 'ts-mongoose';
 /**
  * Modelo de tests
  * 
- * @author Jogeiker L <jogeiker1999@gmail.com>
+ * @author David Valor <davidvalorwork@gmail.com>
  * @copyright JDV
  * 
  * @link https://www.npmjs.com/package/ts-mongoose
